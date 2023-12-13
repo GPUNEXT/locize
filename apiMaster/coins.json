@@ -1,0 +1,16 @@
+[
+  {
+    "currency": "ETH",
+    "name": "Ethereum",
+    "algos": [
+      "ethash"
+    ]
+  },
+  {
+    "currency": "ETC",
+    "name": "Ethereum Classic",
+    "algos": [
+      "etchash"
+    ]
+  }
+]

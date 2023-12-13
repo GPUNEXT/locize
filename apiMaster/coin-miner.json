@@ -1,0 +1,17 @@
+[
+  {
+    "currency": "ETH",
+    "miners": [
+      "phoenix",
+      "nbminer",
+      "teamredminer"
+    ]
+  },
+  {
+    "currency": "ETC",
+    "miners": [
+      "phoenix",
+      "teamredminer"
+    ]
+  }
+]

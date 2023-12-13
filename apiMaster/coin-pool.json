@@ -1,0 +1,1865 @@
+{
+  "BTC": [
+    "antpool",
+    "binance",
+    "bitcoin",
+    "bsod",
+    "btc",
+    "btcc",
+    "btctop",
+    "bw",
+    "dpool",
+    "emcd",
+    "f2pool",
+    "hashcity",
+    "minerall",
+    "poolin",
+    "slushpool",
+    "thecryptopools",
+    "viabtc"
+  ],
+"ETH": [
+  "sparkpool",
+  "2miners",
+  "adaminers",
+  "altpool",
+  "anorak",
+  "antpool",
+  "arsmine",
+  "baikalmine",
+  "binance",
+  "bw",
+  "clona",
+  "coinmine",
+  "coinotron",
+  "coolpool",
+  "crazypool",
+  "cruxpool",
+  "dpool",
+  "dwarfpool",
+  "emcd",
+  "ethashpool",
+  "ethermine",
+  "ethpool",
+  "ethturk",
+  "europool",
+  "ezil",
+  "f2pool",
+  "flexpool",
+  "hashcity",
+  "herominers",
+  "hiveon",
+  "icanmining",
+  "k1pool",
+  "maxhash",
+  "minerall",
+  "minergate",
+  "miningpoolhub",
+  "mole-pool",
+  "nanopool",
+  "poolin",
+  "prominerspool",
+  "protonmine",
+  "smartpool",
+  "solopool",
+  "suprnova",
+  "uleypool",
+  "viabtc",
+  "wattpool",
+  "wattum",
+  "whalesburg",
+  "woolypooly",
+  "zettech"
+],  
+  "DASH": [
+    "antpool",
+    "bsod",
+    "btctop",
+    "coinmine",
+    "emcd",
+    "f2pool",
+    "hashcity",
+    "miningpoolhub",
+    "poolin",
+    "suprnova",
+    "thecryptopools",
+    "viabtc"
+  ],
+  "LTC": [
+    "antpool",
+    "bsod",
+    "btcc",
+    "btctop",
+    "bw",
+    "emcd",
+    "f2pool",
+    "hashcity",
+    "litecoinpool",
+    "minergate",
+    "miningpoolhub",
+    "poolin",
+    "solopool",
+    "thecryptopools",
+    "viabtc"
+  ],
+  "SERO": [
+    "0-m-g",
+    "mole-pool",
+    "woolypooly"
+  ],
+  "AE": [
+    "2miners",
+    "woolypooly"
+  ],
+  "BEAM": [
+    "sparkpool",    
+    "2miners",
+    "beepool",
+    "cruxpool",
+    "herominers",
+    "leafpool",
+    "solopool"
+  ],
+  "BTG": [
+    "2miners",
+    "altpool",
+    "coinblockers",
+    "coinotron",
+    "hashcity",
+    "k1pool",
+    "minergate",
+    "miningpoolhub",
+    "solopool",
+    "suprnova",
+    "woolypooly"
+  ],
+  "CKB": [
+    "sparkpool",
+    "2miners",
+    "f2pool",
+    "hashpool"
+  ],
+  "BTM": [
+    "antpool",
+    "btcc",
+    "nlpool"
+  ],  
+  "CLO": [
+    "2miners",
+    "altpool",
+    "arsmine",
+    "baikalmine",
+    "callistopool",
+    "clona",
+    "clopool",
+    "coolpool",
+    "dgpool",
+    "ethashfarm",
+    "hashcity",
+    "herominers",
+    "k1pool",
+    "maxhash",
+    "minerpool",
+    "nicepool",
+    "poolfun",
+    "poolsexy",
+    "shpool",
+    "solopool",
+    "terrahash",
+    "uleypool",
+    "wattpool"
+  ],
+  "CTXC": [
+    "2miners",
+    "frostypool",
+    "herominers",
+    "woolypooly"
+  ],
+  "ETC": [
+    "2miners",
+    "adaminers",
+    "altpool",
+    "anorak",
+    "antpool",
+    "anyhash",
+    "arsmine",
+    "baikalmine",
+    "bw",
+    "clona",
+    "coinmine",
+    "coinotron",
+    "coolpool",
+    "crazypool",
+    "cruxpool",
+    "crypit",
+    "emcd",
+    "etcget",
+    "etcturk",
+    "ethashpool",
+    "etherdig",
+    "ethermine",
+    "europool",
+    "ezil",
+    "f2pool",
+    "fairpool",
+    "hashcity",
+    "herominers",
+    "hiveon",
+    "icanmining",
+    "k1pool",
+    "maxhash",
+    "minepro",
+    "minerall",
+    "minergate",
+    "minersby",
+    "miningpoolhub",
+    "mole-pool",
+    "nanopool",
+    "pearpool",
+    "promine",
+    "prominerspool",
+    "protonmine",
+    "protonminers",
+    "shpool",
+    "solopool",
+    "uleypool",
+    "viabtc",
+    "wattpool",
+    "woolypooly",
+    "zettech"
+  ],
+  "ETP": [
+    "2miners",
+    "altpool",
+    "dodopool",
+    "ethashpool",
+    "europool",
+    "k1pool",
+    "mole-pool"
+  ],
+  "EXP": [
+    "2miners",
+    "altpool",
+    "arsmine",
+    "baikalmine",
+    "clona",
+    "coinmine",
+    "coolpool",
+    "dgpool",
+    "dwarfpool",
+    "herominers",
+    "k1pool",
+    "maxhash",
+    "megapool",
+    "minepro",
+    "minerpool",
+    "miningpoolhub",
+    "poolfun",
+    "shpool",
+    "solopool",
+    "uleypool",
+    "wattpool"
+  ],
+  "GRIN": [
+    "2miners",
+    "grinmint",
+    "herominers",
+    "luxor",
+    "nanopool",
+    "sparkpool",
+    "thegrinpool",
+    "woolypooly"
+  ],
+  "MWC": [
+    "2miners",
+    "frostypool",
+    "herominers",
+    "woolypooly"
+  ],
+  "RVN": [
+    "2miners",
+    "666pool",
+    "beepool",
+    "bsod",
+    "coinotron",
+    "cruxpool",
+    "f2pool",
+    "flypool",
+    "k1pool",
+    "minermore",
+    "mintpond",
+    "mole-pool",
+    "nanopool",
+    "ravenminer",
+    "solopool",
+    "suprnova",
+    "woolypooly"
+  ],
+  "XMR": [
+    "2miners",
+    "coinmine",
+    "cryptoknight",
+    "cryptopoolspace",
+    "dwarfpool",
+    "dxpool",
+    "f2pool",
+    "fairhash",
+    "gntl",
+    "hashcity",
+    "hashvault",
+    "herominers",
+    "hyvegate",
+    "luxor",
+    "minergate",
+    "minerrocks",
+    "minershaven",
+    "minexmr",
+    "miningpoolhub",
+    "monerohash",
+    "moneroocean",
+    "myo-xmr",
+    "nanopool",
+    "poolin",
+    "poolmoscow",
+    "skypool",
+    "solopool",
+    "supportxmr",
+    "xmrpool"
+  ],
+  "XZC": [
+    "2miners",
+    "dapool",
+    "mintpond",
+    "solopool"
+  ],
+  "ZEC": [
+    "2miners",
+    "altpool",
+    "antpool",
+    "coinmine",
+    "coinotron",
+    "dwarfpool",
+    "equipool",
+    "flypool",
+    "hashcity",
+    "k1pool",
+    "luckpool",
+    "minepro",
+    "minerall",
+    "minergate",
+    "miningpoolhub",
+    "nanopool",
+    "poolin",
+    "slushpool",
+    "smartpool",
+    "solopool",
+    "suprnova",
+    "viabtc"
+  ],
+  "ZEL": [
+    "2miners",
+    "altpool",
+    "bitpool",
+    "coinblockers",
+    "equipool",
+    "fomominers",
+    "k1pool",
+    "minermore",
+    "solopool",
+    "woolypooly",
+    "zelcash"
+  ],
+  "ZEN": [
+    "2miners",
+    "altpool",
+    "bitpool",
+    "equipool",
+    "f2pool",
+    "fomominers",
+    "k1pool",
+    "luckpool",
+    "minepro",
+    "miningpoolhub",
+    "miningspeed",
+    "solopool",
+    "suprnova"
+  ],
+  "CFX": [
+    "666pool",
+    "beepool",
+    "f2pool",
+    "herominers",
+    "poolflare",
+    "woolypooly"
+  ],
+  "PMEER": [
+    "666pool",
+    "hashpool",
+    "uupool"
+  ],
+  "NIM": [
+    "acemining",
+    "icemining",
+    "nimpool"
+  ],
+  "AION": [
+    "aionmine",
+    "aionpool",
+    "woolypooly"
+  ],
+  "WOW": [
+    "aiwakuang",
+    "cryptoknight",
+    "fairpool",
+    "hashvault",
+    "herominers",
+    "wownero"
+  ],
+  "ANON": [
+    "altpool",
+    "equipool",
+    "fomominers",
+    "miningspeed"
+  ],
+  "BCI": [
+    "altpool",
+    "coinblockers",
+    "luckypoolio",
+    "suprnova"
+  ],
+  "BTCP": [
+    "altpool",
+    "bitpool",
+    "equipool",
+    "fomominers",
+    "miningspeed",
+    "suprnova"
+  ],
+  "BTCZ": [
+    "altpool",
+    "bitpool",
+    "equipool",
+    "fomominers",
+    "k1pool",
+    "solopool",
+    "suprnova"
+  ],
+  "BTH": [
+    "altpool"
+  ],
+  "DBIX": [
+    "altpool",
+    "clona",
+    "coolpool",
+    "dgpool",
+    "europool",
+    "hashcity",
+    "maxhash",
+    "poolsexy",
+    "terrahash"
+  ],
+  "HUSH": [
+    "altpool",
+    "luckpool",
+    "suprnova"
+  ],
+  "KMD": [
+    "altpool",
+    "coinblockers",
+    "fomominers",
+    "k1pool",
+    "luckpool",
+    "solopool",
+    "suprnova"
+  ],
+  "MUSIC": [
+    "altpool",
+    "arsmine",
+    "coinmine",
+    "dgpool",
+    "megapool",
+    "minerpool",
+    "miningclubinfo",
+    "miningpoolhub",
+    "poolsexy"
+  ],
+  "PIRL": [
+    "altpool",
+    "anorak",
+    "arsmine",
+    "baikalmine",
+    "clona",
+    "coolpool",
+    "cryptopools.info",
+    "dgpool",
+    "minerpool",
+    "mole-pool",
+    "poolsexy",
+    "shpool",
+    "uleypool",
+    "wattpool"
+  ],
+  "UBQ": [
+    "altpool",
+    "anorak",
+    "clona",
+    "coinmine",
+    "maxhash",
+    "minerpool",
+    "poolsexy",
+    "solopool",
+    "suprnova",
+    "terrahash",
+    "ubiqpool",
+    "wattpool"
+  ],
+  "XSG": [
+    "altpool",
+    "bitpool",
+    "equipool",
+    "fomominers",
+    "k1pool",
+    "minermore",
+    "miningspeed",
+    "solopool"
+  ],
+  "YOC": [
+    "altpool",
+    "megapool"
+  ],
+  "ZCL": [
+    "altpool",
+    "bitpool",
+    "coinmine",
+    "f2pool",
+    "fomominers",
+    "minepro",
+    "miningpoolhub",
+    "miningspeed",
+    "solopool",
+    "suprnova"
+  ],
+  "GIN": [
+    "angrypool",
+    "arcpool",
+    "bsod",
+    "goscx",
+    "hashpool",
+    "nlpool"
+  ],
+  "BCH": [
+    "antpool",
+    "bitcoin",
+    "bsod",
+    "emcd",
+    "hashcity",
+    "minerall",
+    "poolin",
+    "thecryptopools",
+    "viabtc"
+  ],
+  "SC": [
+    "antpool",
+    "bw",
+    "f2pool",
+    "miningpoolhub"
+  ],
+  "XMC": [
+    "antpool",
+    "fairhash"
+  ],
+  "ABS": [
+    "arcpool"
+  ],
+  "DIN": [
+    "arcpool",
+    "mecryptoclub"
+  ],
+  "GLYNO": [
+    "arcpool"
+  ],
+  "LUX": [
+    "arcpool",
+    "bsod",
+    "mecryptoclub",
+    "nlpool",
+    "suprnova",
+    "unimining"
+  ],
+  "MANO": [
+    "arcpool",
+    "nlpool"
+  ],
+  "MBC": [
+    "arcpool",
+    "rplant"
+  ],
+  "REEF": [
+    "arcpool",
+    "protopool"
+  ],
+  "STAK": [
+    "arcpool",
+    "nlpool",
+    "suprnova"
+  ],
+  "STONE": [
+    "arcpool",
+    "nlpool"
+  ],
+  "VTL": [
+    "arcpool",
+    "nlpool"
+  ],
+  "AGM": [
+    "argoneum",
+    "bsod",
+    "mecryptoclub"
+  ],
+  "ELLA": [
+    "arsmine",
+    "baikalmine",
+    "coinmine",
+    "ellaism",
+    "megapool",
+    "minerpool",
+    "poolsexy"
+  ],
+  "MOAC": [
+    "arsmine",
+    "baikalmine",
+    "clona",
+    "coolpool",
+    "crazypool",
+    "dgpool",
+    "hashcity",
+    "minersby",
+    "mole-pool",
+    "poolfun",
+    "poolsexy",
+    "solopool",
+    "terrahash"
+  ],
+  "ZIL": [
+    "beepool",
+    "ezil",
+    "getzil",
+    "shardpool"
+  ],
+  "BTX": [
+    "bitcorepool",
+    "bsod",
+    "mecryptoclub",
+    "suprnova",
+    "umine"
+  ],
+  "BZE": [
+    "bitpool",
+    "fomominers"
+  ],
+  "CMM": [
+    "bitpool",
+    "coinblockers",
+    "miningspeed"
+  ],
+  "LTZ": [
+    "bitpool",
+    "equipool"
+  ],
+  "SAFE": [
+    "bitpool",
+    "coinblockers",
+    "dapool",
+    "equipool",
+    "fomominers",
+    "minermore",
+    "miningspeed",
+    "solopool"
+  ],
+  "VDL": [
+    "bitpool",
+    "dapool"
+  ],
+  "ZER": [
+    "bitpool",
+    "equipool",
+    "fomominers",
+    "solopool",
+    "suprnova",
+    "zerocurrency"
+  ],
+  "TTNZ": [
+    "blokspace"
+  ],
+  "XVV": [
+    "blokspace"
+  ],
+  "AXE": [
+    "bsod"
+  ],
+  "BCD": [
+    "bsod"
+  ],
+  "BITC": [
+    "bsod",
+    "goscx",
+    "minershaven",
+    "tokyo"
+  ],
+  "BST": [
+    "bsod"
+  ],
+  "BSV": [
+    "bsod",
+    "emcd",
+    "hashcity",
+    "poolin"
+  ],
+  "CHI": [
+    "bsod"
+  ],
+  "DGB": [
+    "bsod",
+    "dgb256online",
+    "mecryptoclub",
+    "miningpoolhub",
+    "solopool"
+  ],
+  "DOGE": [
+    "bsod",
+    "thecryptopools"
+  ],
+  "DVT": [
+    "bsod"
+  ],
+  "EXO": [
+    "bsod"
+  ],
+  "GBX": [
+    "bsod",
+    "mecryptoclub",
+    "unimining"
+  ],
+  "GIO": [
+    "bsod"
+  ],
+  "LCC": [
+    "bsod",
+    "mecryptoclub",
+    "suprnova",
+    "thecryptopools"
+  ],
+  "MONA": [
+    "bsod",
+    "miningpoolhub",
+    "nlpool",
+    "suprnova"
+  ],
+  "ONION": [
+    "bsod"
+  ],
+  "PEXA": [
+    "bsod",
+    "goscx"
+  ],
+  "PGN": [
+    "bsod",
+    "goscx",
+    "powerpool",
+    "tokyo"
+  ],
+  "SCRIV": [
+    "bsod",
+    "mecryptoclub"
+  ],
+  "VEIL": [
+    "bsod",
+    "goscx",
+    "luxor",
+    "suprnova",
+    "woolypooly"
+  ],
+  "XRC": [
+    "bsod"
+  ],
+  "SBTC": [
+    "btcc"
+  ],
+  "AKA": [
+    "clona",
+    "coinmine",
+    "dgpool",
+    "europool",
+    "fairpool",
+    "minerpool",
+    "poolfun",
+    "poolsexy",
+    "uleypool",
+    "wattpool"
+  ],
+  "JOYS": [
+    "clona",
+    "coolpool",
+    "mole-pool"
+  ],
+  "NILU": [
+    "clona",
+    "coolpool",
+    "minerpool",
+    "poolfun"
+  ],
+  "AURA": [
+    "coinmine"
+  ],
+  "DCR": [
+    "coinmine",
+    "f2pool",
+    "luxor",
+    "poolin",
+    "suprnova"
+  ],
+  "GRS": [
+    "coinmine",
+    "miningpoolhub",
+    "suprnova"
+  ],
+  "LBC": [
+    "coinmine"
+  ],
+  "PPC": [
+    "coinmine"
+  ],
+  "SRC": [
+    "coinmine"
+  ],
+  "FTC": [
+    "coinotron",
+    "miningpoolhub"
+  ],
+  "ARQ": [
+    "coinpoolit",
+    "gntl",
+    "herominers"
+  ],
+  "KRB": [
+    "coinpoolit",
+    "fairhash",
+    "minerrocks"
+  ],
+  "SUMO": [
+    "coinpoolit",
+    "fairhash",
+    "hashvault",
+    "herominers",
+    "minerrocks",
+    "minershaven"
+  ],
+  "TRTL": [
+    "coinpoolit",
+    "cryptoknight",
+    "cryptopoolspace",
+    "hashvault",
+    "herominers",
+    "minerrocks",
+    "turtlepool"
+  ],
+  "TUBE": [
+    "coinpoolit",
+    "cryptoknight",
+    "cryptopoolspace",
+    "fairhash",
+    "gntl",
+    "hashvault",
+    "herominers",
+    "minerrocks"
+  ],
+  "Comining-Ethash": [
+    "comining"
+  ],
+  "EGEM": [
+    "coolpool",
+    "egem",
+    "europool",
+    "minerpool",
+    "poolfun",
+    "protonmine",
+    "shpool",
+    "terrahash",
+    "wattpool"
+  ],
+  "ETHO": [
+    "coolpool",
+    "dgpool",
+    "ethashfarm",
+    "exlotech",
+    "minerpool",
+    "poolfun",
+    "poolsexy",
+    "shpool",
+    "terrahash",
+    "uleypool",
+    "wattpool"
+  ],
+  "ETX": [
+    "coolpool"
+  ],
+  "CPU": [
+    "cpupool",
+    "rplant"
+  ],
+  "CRP": [
+    "cpupool",
+    "rplant"
+  ],
+  "ELI": [
+    "cpupool",
+    "hashpool",
+    "mecryptoclub"
+  ],
+  "YTN": [
+    "cpupool",
+    "rplant"
+  ],
+  "MAX": [
+    "cryptocartel",
+    "miningpoolhub",
+    "nlpool"
+  ],
+  "NEVA": [
+    "cryptocartel",
+    "nlpool"
+  ],
+  "SMART": [
+    "cryptocartel",
+    "nlpool"
+  ],
+  "TAJ": [
+    "cryptocartel"
+  ],
+  "XSH": [
+    "cryptocartel",
+    "nlpool",
+    "unimining"
+  ],
+  "XVG": [
+    "cryptocartel",
+    "f2pool",
+    "hashpool",
+    "miningpoolhub",
+    "nlpool",
+    "umine",
+    "unimining"
+  ],
+  "BBS": [
+    "cryptoknight"
+  ],
+  "GRFT": [
+    "cryptoknight",
+    "cryptopoolspace",
+    "dark-mine",
+    "gntl",
+    "graftcommunity",
+    "hashvault",
+    "minerrocks"
+  ],
+  "ITNS": [
+    "cryptoknight",
+    "fairhash"
+  ],
+  "LOKI": [
+    "cryptoknight",
+    "cryptopoolspace",
+    "fairhash",
+    "mine2gether",
+    "minerrocks"
+  ],
+  "MSR": [
+    "cryptoknight",
+    "dark-mine",
+    "fairhash",
+    "gntl",
+    "hashvault",
+    "herominers",
+    "minerrocks"
+  ],
+  "XHV": [
+    "cryptoknight",
+    "cryptopoolspace",
+    "fairhash",
+    "fairpool",
+    "hashvault",
+    "herominers",
+    "minerrocks"
+  ],
+  "XMV": [
+    "cryptoknight",
+    "fairhash",
+    "leafpool"
+  ],
+  "XTL": [
+    "cryptoknight",
+    "cryptopoolspace",
+    "gntl",
+    "minerrocks"
+  ],
+  "BSM": [
+    "cryptopoolspace"
+  ],
+  "DERO": [
+    "cryptopoolspace",
+    "fairhash",
+    "herominers",
+    "minerrocks"
+  ],
+  "PLE": [
+    "cryptopoolspace"
+  ],
+  "QRL": [
+    "cryptopoolspace",
+    "fairpool",
+    "herominers"
+  ],
+  "XCA": [
+    "cryptopoolspace"
+  ],
+  "ARW": [
+    "dapool"
+  ],
+  "HNS": [
+    "dapool"
+  ],
+  "YEC": [
+    "dapool",
+    "equipool",
+    "k1pool",
+    "luxor",
+    "solopool"
+  ],
+  "XLC": [
+    "dark-mine",
+    "fairhash",
+    "gntl"
+  ],
+  "ATH": [
+    "dgpool",
+    "minerpool",
+    "miningspeed",
+    "poolfun",
+    "shpool",
+    "terrahash",
+    "wattpool"
+  ],
+  "B2G": [
+    "dgpool",
+    "europool",
+    "minersby",
+    "poolfun",
+    "terrahash"
+  ],
+  "BIS": [
+    "eggpool",
+    "noncepool"
+  ],
+  "ETNX": [
+    "electronero"
+  ],
+  "GENX": [
+    "equipool",
+    "fomominers"
+  ],
+  "VOT": [
+    "equipool",
+    "fomominers"
+  ],
+  "ESN": [
+    "europool",
+    "mecryptoclub",
+    "miningpoolhub",
+    "wattpool"
+  ],
+  "XERO": [
+    "exlotech",
+    "wattpool"
+  ],
+  "BCN": [
+    "fairhash",
+    "hashcity",
+    "minergate"
+  ],
+  "ETN": [
+    "fairhash",
+    "gntl",
+    "minerrocks",
+    "miningpoolhub",
+    "suprnova"
+  ],
+  "NCP": [
+    "fairhash"
+  ],
+  "X12": [
+    "fairhash"
+  ],
+  "XDN": [
+    "fairhash",
+    "minergate"
+  ],
+  "DOGX": [
+    "fairpool",
+    "poolfun",
+    "terrahash"
+  ],
+  "PASL": [
+    "fairpool"
+  ],
+  "PURK": [
+    "fairpool",
+    "luckypoolio"
+  ],
+  "RYO": [
+    "fairpool",
+    "goscx",
+    "hashvault",
+    "herominers",
+    "minerrocks",
+    "ryo"
+  ],
+  "PASC": [
+    "fastpool",
+    "pascalpool"
+  ],
+  "CURE": [
+    "folding@home"
+  ],
+  "FAH-CLI": [
+    "folding@home"
+  ],
+  "FTO": [
+    "fomominers"
+  ],
+  "SECI": [
+    "fomominers"
+  ],
+  "SUQA": [
+    "fomominers"
+  ],
+  "AEON": [
+    "gntl",
+    "herominers",
+    "minerrocks"
+  ],
+  "LTHN": [
+    "gntl",
+    "hashcity",
+    "hashvault"
+  ],
+  "GEX": [
+    "goscx",
+    "mecryptoclub"
+  ],
+  "HDAC": [
+    "goscx"
+  ],
+  "RITO": [
+    "goscx",
+    "mecryptoclub"
+  ],
+  "SIN": [
+    "goscx",
+    "sin-official",
+    "tokyo"
+  ],
+  "VTC": [
+    "goscx",
+    "miningpoolhub",
+    "nlpool",
+    "thecryptopools"
+  ],
+  "XDNA": [
+    "goscx",
+    "nlpool",
+    "protopool",
+    "suprnova"
+  ],
+  "MDEX": [
+    "hashpool",
+    "nlpool"
+  ],
+  "CCX": [
+    "hashvault",
+    "herominers"
+  ],
+  "KVA": [
+    "hashvault"
+  ],
+  "XWP": [
+    "hashvault",
+    "herominers",
+    "swap-xwp"
+  ],
+  "CXCHE": [
+    "herominers"
+  ],
+  "UPX": [
+    "herominers"
+  ],
+  "XCASH": [
+    "herominers"
+  ],
+  "XLA": [
+    "herominers"
+  ],
+  "K1Pool-Equihash": [
+    "k1pool"
+  ],
+  "K1Pool-Equihash125": [
+    "k1pool"
+  ],
+  "K1Pool-Equihash144": [
+    "k1pool"
+  ],
+  "K1Pool-Equihash192": [
+    "k1pool"
+  ],
+  "K1Pool-Ethash": [
+    "k1pool"
+  ],
+  "K1Pool-Kawpow": [
+    "k1pool"
+  ],
+  "SUP": [
+    "leafpool"
+  ],
+  "ZP": [
+    "leafpool",
+    "zenprotocolpool"
+  ],
+  "VRSC": [
+    "luckpool"
+  ],
+  "BBR": [
+    "luckypoolio",
+    "miningclubinfo"
+  ],
+  "ABY": [
+    "mecryptoclub"
+  ],
+  "BSD": [
+    "mecryptoclub",
+    "nlpool",
+    "suprnova"
+  ],
+  "CANN": [
+    "mecryptoclub"
+  ],
+  "DSR": [
+    "mecryptoclub",
+    "unimining"
+  ],
+  "GRLC": [
+    "mecryptoclub",
+    "powerpool",
+    "suprnova"
+  ],
+  "HANA": [
+    "mecryptoclub"
+  ],
+  "HLX": [
+    "mecryptoclub",
+    "nlpool"
+  ],
+  "HTH": [
+    "mecryptoclub",
+    "nlpool",
+    "protopool"
+  ],
+  "IQ": [
+    "mecryptoclub"
+  ],
+  "KYAN": [
+    "mecryptoclub"
+  ],
+  "PCS": [
+    "mecryptoclub"
+  ],
+  "PURA": [
+    "mecryptoclub"
+  ],
+  "PXC": [
+    "mecryptoclub"
+  ],
+  "TNA": [
+    "mecryptoclub",
+    "taonapool"
+  ],
+  "TTN": [
+    "mecryptoclub",
+    "tokyo"
+  ],
+  "TUX": [
+    "mecryptoclub",
+    "powerpool"
+  ],
+  "UFO": [
+    "mecryptoclub"
+  ],
+  "VIVO": [
+    "mecryptoclub"
+  ],
+  "XGCS": [
+    "mecryptoclub"
+  ],
+  "ZOC": [
+    "mecryptoclub"
+  ],
+  "SOIL": [
+    "megapool"
+  ],
+  "DSH": [
+    "minergate"
+  ],
+  "FCN": [
+    "minergate"
+  ],
+  "XMO": [
+    "minergate"
+  ],
+  "ARA": [
+    "minerpool",
+    "poolfun"
+  ],
+  "ETZ": [
+    "minerpool"
+  ],
+  "MIX": [
+    "minerpool",
+    "shpool",
+    "terrahash",
+    "wattpool"
+  ],
+  "NUKO": [
+    "minerpool",
+    "poolfun"
+  ],
+  "PGC": [
+    "minerpool"
+  ],
+  "VIC": [
+    "minerpool",
+    "poolfun",
+    "terrahash"
+  ],
+  "WHL": [
+    "minerpool",
+    "uleypool"
+  ],
+  "XRN": [
+    "minerrocks"
+  ],
+  "ANI": [
+    "miningbase"
+  ],
+  "ADZ": [
+    "miningpoolhub"
+  ],
+  "AUR": [
+    "miningpoolhub"
+  ],
+  "BSTY": [
+    "miningpoolhub",
+    "tokyo"
+  ],
+  "GAME": [
+    "miningpoolhub"
+  ],
+  "MPH-Equihash": [
+    "miningpoolhub"
+  ],
+  "MPH-Ethash": [
+    "miningpoolhub"
+  ],
+  "MPH-Lyra2REv2": [
+    "miningpoolhub"
+  ],
+  "MPH-Skein": [
+    "miningpoolhub"
+  ],
+  "START": [
+    "miningpoolhub"
+  ],
+  "SXC": [
+    "miningpoolhub"
+  ],
+  "XMY": [
+    "miningpoolhub",
+    "nlpool"
+  ],
+  "MRR-CryptoNightV7": [
+    "miningrigrentals"
+  ],
+  "MRR-Equihash": [
+    "miningrigrentals"
+  ],
+  "MRR-Equihash_144_5": [
+    "miningrigrentals"
+  ],
+  "MRR-Equihash_192_7": [
+    "miningrigrentals"
+  ],
+  "MRR-Ethash": [
+    "miningrigrentals"
+  ],
+  "MRR-Lyra2z": [
+    "miningrigrentals"
+  ],
+  "Nicehash-BeamV2": [
+    "nicehash"
+  ],
+  "Nicehash-BeamV3": [
+    "nicehash"
+  ],
+  "Nicehash-Blake2s": [
+    "nicehash"
+  ],
+  "Nicehash-CryptoNightR": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckaroo29": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckaroo29bfc": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckarood29": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckaroom29": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckarooz29": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckatoo31": [
+    "nicehash"
+  ],
+  "Nicehash-Cuckatoo32": [
+    "nicehash"
+  ],
+  "Nicehash-CuckooCycle": [
+    "nicehash"
+  ],
+  "Nicehash-Decred": [
+    "nicehash"
+  ],
+  "Nicehash-Eaglesong": [
+    "nicehash"
+  ],
+  "Nicehash-Equihash": [
+    "nicehash"
+  ],
+  "Nicehash-Ethash": [
+    "nicehash"
+  ],
+  "Nicehash-Handshake": [
+    "nicehash"
+  ],
+  "Nicehash-KawPow": [
+    "nicehash"
+  ],
+  "Nicehash-Keccak": [
+    "nicehash"
+  ],
+  "Nicehash-Lyra2REv2": [
+    "nicehash"
+  ],
+  "Nicehash-Lyra2REv3": [
+    "nicehash"
+  ],
+  "Nicehash-Lyra2Z": [
+    "nicehash"
+  ],
+  "Nicehash-Neoscrypt": [
+    "nicehash"
+  ],
+  "Nicehash-Nist5": [
+    "nicehash"
+  ],
+  "Nicehash-Octopus": [
+    "nicehash"
+  ],
+  "Nicehash-Quark": [
+    "nicehash"
+  ],
+  "Nicehash-Qubit": [
+    "nicehash"
+  ],
+  "Nicehash-RandomXmonero": [
+    "nicehash"
+  ],
+  "Nicehash-Scrypt": [
+    "nicehash"
+  ],
+  "Nicehash-SHA": [
+    "nicehash"
+  ],
+  "Nicehash-SHA256AsicBoost": [
+    "nicehash"
+  ],
+  "Nicehash-X11": [
+    "nicehash"
+  ],
+  "Nicehash-X13": [
+    "nicehash"
+  ],
+  "Nicehash-X16R": [
+    "nicehash"
+  ],
+  "Nicehash-X16Rv2": [
+    "nicehash"
+  ],
+  "Nicehash-Zhash": [
+    "nicehash"
+  ],
+  "ARG": [
+    "nlpool"
+  ],
+  "CREA": [
+    "nlpool"
+  ],
+  "ELLI": [
+    "nlpool"
+  ],
+  "FLM": [
+    "nlpool"
+  ],
+  "FNO": [
+    "nlpool"
+  ],
+  "GLD": [
+    "nlpool"
+  ],
+  "GRV": [
+    "nlpool"
+  ],
+  "GTM": [
+    "nlpool"
+  ],
+  "HASH": [
+    "nlpool"
+  ],
+  "IFX": [
+    "nlpool"
+  ],
+  "MCT": [
+    "nlpool",
+    "umine"
+  ],
+  "MNC": [
+    "nlpool"
+  ],
+  "ORE": [
+    "nlpool",
+    "unimining"
+  ],
+  "WAVI": [
+    "nlpool",
+    "suprnova"
+  ],
+  "XMN": [
+    "nlpool",
+    "unimining"
+  ],
+  "ZCR": [
+    "nlpool"
+  ],
+  "AET": [
+    "poolfun"
+  ],
+  "DAXX": [
+    "poolfun"
+  ],
+  "EOSC": [
+    "poolfun"
+  ],
+  "GOL": [
+    "poolfun",
+    "poolsexy"
+  ],
+  "RESS": [
+    "protopool"
+  ],
+  "QKC": [
+    "qpool"
+  ],
+  "QWC": [
+    "qwertycoin"
+  ],
+  "REOSC": [
+    "reosc",
+    "wattpool"
+  ],
+  "BELL": [
+    "rplant"
+  ],
+  "CSM": [
+    "rplant"
+  ],
+  "DMS": [
+    "rplant"
+  ],
+  "GXX": [
+    "rplant"
+  ],
+  "IOTS": [
+    "rplant"
+  ],
+  "ISO": [
+    "rplant"
+  ],
+  "KOTO": [
+    "rplant"
+  ],
+  "LITB": [
+    "rplant"
+  ],
+  "LTFN": [
+    "rplant"
+  ],
+  "RES": [
+    "rplant"
+  ],
+  "RNG": [
+    "rplant"
+  ],
+  "SUGAR": [
+    "rplant"
+  ],
+  "SWAMP": [
+    "rplant"
+  ],
+  "TDC": [
+    "rplant"
+  ],
+  "URX": [
+    "rplant"
+  ],
+  "VECO": [
+    "rplant"
+  ],
+  "ENIX": [
+    "shpool"
+  ],
+  "ARRR": [
+    "solopool"
+  ],
+  "GRIN-C31": [
+    "sparkpool",
+    "thegrinpool"
+  ],
+  "CHC": [
+    "suprnova"
+  ],
+  "EMC2": [
+    "suprnova"
+  ],
+  "FLO": [
+    "suprnova"
+  ],
+  "NIX": [
+    "suprnova"
+  ],
+  "SIB": [
+    "suprnova"
+  ],
+  "ETCC": [
+    "terrahash"
+  ],
+  "ROL": [
+    "terrahash"
+  ],
+  "BNODE": [
+    "tokyo"
+  ],
+  "c0ban": [
+    "tokyo"
+  ],
+  "UMBRU": [
+    "umbruofficial"
+  ],
+  "TZC": [
+    "unimining"
+  ],
+  "BFC": [
+    "uupool"
+  ],
+  "VOLLAR": [
+    "uupool"
+  ],
+  "Whalesburg-Ethash": [
+    "whalesburg"
+  ],
+  "Zerg-blake2b": [
+    "zergpool-btc"
+  ],
+  "Zerg-c11": [
+    "zergpool-btc"
+  ],
+  "Zerg-chukwa": [
+    "zergpool-btc"
+  ],
+  "Zerg-cryptonight_gpu": [
+    "zergpool-btc"
+  ],
+  "Zerg-equihash125": [
+    "zergpool-btc"
+  ],
+  "Zerg-equihash192": [
+    "zergpool-btc"
+  ],
+  "Zerg-etchash": [
+    "zergpool-btc"
+  ],
+  "Zerg-ethash": [
+    "zergpool-btc"
+  ],
+  "Zerg-k12": [
+    "zergpool-btc"
+  ],
+  "Zerg-kawpow": [
+    "zergpool-btc"
+  ],
+  "Zerg-keccak": [
+    "zergpool-btc"
+  ],
+  "Zerg-lyra2z": [
+    "zergpool-btc"
+  ],
+  "Zerg-m7m": [
+    "zergpool-btc"
+  ],
+  "Zerg-mtp": [
+    "zergpool-btc"
+  ],
+  "Zerg-odocrypt": [
+    "zergpool-btc"
+  ],
+  "Zerg-sha3d": [
+    "zergpool-btc"
+  ],
+  "Zerg-verushash": [
+    "zergpool-btc"
+  ],
+  "Zerg-x21s": [
+    "zergpool-btc"
+  ],
+  "Zpool-aergo": [
+    "zpool"
+  ],
+  "Zpool-allium": [
+    "zpool"
+  ],
+  "Zpool-argon2d-dyn": [
+    "zpool"
+  ],
+  "Zpool-bitcore": [
+    "zpool"
+  ],
+  "Zpool-blake2s": [
+    "zpool"
+  ],
+  "Zpool-blakecoin": [
+    "zpool"
+  ],
+  "Zpool-c11": [
+    "zpool"
+  ],
+  "Zpool-decred": [
+    "zpool"
+  ],
+  "Zpool-equihash": [
+    "zpool"
+  ],
+  "Zpool-equihash125": [
+    "zpool"
+  ],
+  "Zpool-hmq1725": [
+    "zpool"
+  ],
+  "Zpool-hsr": [
+    "zpool"
+  ],
+  "Zpool-keccak": [
+    "zpool"
+  ],
+  "Zpool-keccakc": [
+    "zpool"
+  ],
+  "Zpool-lbry": [
+    "zpool"
+  ],
+  "Zpool-lyra2v2": [
+    "zpool"
+  ],
+  "Zpool-lyra2z": [
+    "zpool"
+  ],
+  "Zpool-m7m": [
+    "zpool"
+  ],
+  "Zpool-myr-gr": [
+    "zpool"
+  ],
+  "Zpool-neoscrypt": [
+    "zpool"
+  ],
+  "Zpool-nist5": [
+    "zpool"
+  ],
+  "Zpool-phi": [
+    "zpool"
+  ],
+  "Zpool-phi2": [
+    "zpool"
+  ],
+  "Zpool-sha256t": [
+    "zpool"
+  ],
+  "Zpool-sib": [
+    "zpool"
+  ],
+  "Zpool-skein": [
+    "zpool"
+  ],
+  "Zpool-skunk": [
+    "zpool"
+  ],
+  "Zpool-timetravel": [
+    "zpool"
+  ],
+  "Zpool-tribus": [
+    "zpool"
+  ],
+  "Zpool-x11evo": [
+    "zpool"
+  ],
+  "Zpool-x13": [
+    "zpool"
+  ],
+  "Zpool-x16r": [
+    "zpool"
+  ],
+  "Zpool-x16s": [
+    "zpool"
+  ],
+  "Zpool-x17": [
+    "zpool"
+  ],
+  "Zpool-xevan": [
+    "zpool"
+  ],
+  "Zpool-yescrypt": [
+    "zpool"
+  ],
+  "Zpool-yescryptr16": [
+    "zpool"
+  ]
+}
