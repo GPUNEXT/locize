@@ -1,0 +1,23 @@
+{
+  "name": "locize",
+  "version": "1.0.0",
+  "description": "## Prod 访问 https://xxx/master/x/zh/account.json?version=1",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .json ./"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-json": "^3.0.0",
+    "pre-commit": "^1.2.2"
+  }
+}

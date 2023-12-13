@@ -1,0 +1,261 @@
+{
+  "poolUrl": "https://www.sparkpool.com/miner/:WALLET/data?currency=:CURRENCY",
+  "workerUrl": "https://www.sparkpool.com/miner/:WALLET/worker?currency=:CURRENCY&worker=:WORKER",
+  "data": [
+    {
+      "coin": "BEAM",
+      "pool": "sparkpool",
+      "props": {
+        "servers": [
+          {
+            "geo": "China",
+            "urls": [
+              "beam.sparkpool.com:2222"
+            ]
+          },
+          {
+            "geo": "Europe",
+            "urls": [
+              "beam-eu.sparkpool.com:2222"
+            ]
+          },
+          {
+            "geo": "Southeast Asia",
+            "urls": [
+              "beam-asia.sparkpool.com:2222"
+            ]
+          },
+          {
+            "geo": "US",
+            "urls": [
+              "beam-us.sparkpool.com:2222"
+            ]
+          }
+        ],
+        "miners": {
+          "miniz": {
+            "tls": "1",
+            "url": "%URL%",
+            "algo": "144,5s",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "bminer": {
+            "url": "%URL%",
+            "algo": "beam+ssl",
+            "pass": "x",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "gminer": {
+            "tls": "1",
+            "algo": "beamhash",
+            "pass": "x",
+            "port": "%URL_PORT%",
+            "server": "%URL_HOST%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "lolminer": {
+            "algo": "BEAM",
+            "pass": "x",
+            "port": "%URL_PORT%",
+            "server": "%URL_HOST%",
+            "template": "%WAL%.%WORKER_NAME%"
+          }
+        }
+      }
+    },
+    {
+      "coin": "CKB",
+      "pool": "sparkpool",
+      "props": {
+        "servers": [
+          {
+            "geo": "China (mainland)",
+            "urls": [
+              "ckb.sparkpool.com:8888",
+              "ckb.sparkpool.com:18888"
+            ]
+          },
+          {
+            "geo": "Europe",
+            "urls": [
+              "ckb-eu.sparkpool.com:8888",
+              "ckb-eu.sparkpool.com:18888"
+            ]
+          },
+          {
+            "geo": "Asia",
+            "urls": [
+              "ckb-asia.sparkpool.com:8888",
+              "ckb-asia.sparkpool.com:18888"
+            ]
+          }
+        ],
+        "miners": {
+          "smine": {
+            "url": "%URL%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "bminer": {
+            "url": "%URL%",
+            "algo": "ckb",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "gminer": {
+            "algo": "eaglesong",
+            "port": "%URL_PORT%",
+            "server": "%URL_HOST%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "nbminer": {
+            "url": "%URL%",
+            "algo": "eaglesong",
+            "template": "%WAL%.%WORKER_NAME%"
+          }
+        }
+      }
+    },
+    {
+      "coin": "ETH",
+      "pool": "sparkpool",
+      "props": {
+        "servers": [
+          {
+            "geo": "China",
+            "urls": [
+              "cn.sparkpool.com:3333",
+              "cn.sparkpool.com:13333"
+            ]
+          },          
+          {
+            "geo": "Europe",
+            "urls": [
+              "eu.sparkpool.com:3333",
+              "eu.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "US West",
+            "urls": [
+              "na-west.sparkpool.com:3333",
+              "na-west.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "US East",
+            "urls": [
+              "na-east.sparkpool.com:3333",
+              "na-east.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "Korea",
+            "urls": [
+              "kr.sparkpool.com:3333",
+              "kr.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "Japan",
+            "urls": [
+              "jp.sparkpool.com:3333",
+              "jp.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "Taiwan",
+            "urls": [
+              "tw.sparkpool.com:3333",
+              "tw.sparkpool.com:13333"
+            ]
+          },
+          {
+            "geo": "Southeast Asia",
+            "urls": [
+              "asia.sparkpool.com:3333",
+              "asia.sparkpool.com:13333"
+            ]
+          }
+        ],
+        "miners": {
+          "t-rex": {
+            "url": "%URL%",
+            "algo": "ethash",
+            "template": "%WAL%",
+            "user_config": "\"worker\": \"%WORKER_NAME%\"\n\"coin\":\"%COIN%\""
+          },
+          "bminer": {
+            "url": "%URL%",
+            "algo": "ethproxy",
+            "pass": "x",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "gminer": {
+            "algo": "ethash",
+            "pass": "x",
+            "port": "%URL_PORT%",
+            "server": "%URL_HOST%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "nbminer": {
+            "url": "%URL%",
+            "algo": "ethash",
+            "pass": "x",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "ethminer": {
+            "cuda": 1,
+            "pass": "x",
+            "port": "%URL_PORT%",
+            "opencl": 1,
+            "server": "stratum1+tcp:\/\/%URL_HOST%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "lolminer": {
+            "algo": "ETHASH",
+            "pass": "x",
+            "port": "%URL_PORT%",
+            "server": "%URL_HOST%",
+            "template": "%WAL%",
+            "user_config": "--worker %WORKER_NAME%"
+          },
+          "srbminer": {
+            "url": "%URL%",
+            "algo": "ethash",
+            "worker": "%WORKER_NAME%",
+            "template": "%WAL%",
+            "user_config": "--disable-cpu"
+          },
+          "tt-miner": {
+            "url": "stratum1+tcp:\/\/%URL%",
+            "algo": "ETHASH",
+            "pass": "x",
+            "template": "%WAL%.%WORKER_NAME%",
+            "user_config": "-RH\n"
+          },
+          "asicminer": {
+            "url": "stratum+tcp:\/\/%URL%",
+            "template": "%WAL%.%WORKER_NAME%"
+          },
+          "nanominer": {
+            "url": "%URL%",
+            "algo": "ethash",
+            "pass": "x",
+            "template": "%WAL%",
+            "user_config": "coin = %COIN%\nrigName = %WORKER_NAME%"
+          },
+          "phoenixminer": {
+            "url": "POOL: %URL%, WALLET: %WAL%.%WORKER_NAME%, PSW: x",
+            "user_config": "-coin %COIN%"
+          },
+          "teamredminer": {
+            "url": "stratum+tcp:\/\/%URL%",
+            "algo": "ethash",
+            "pass": "x",
+            "worker": "%WORKER_NAME%",
+            "template": "%WAL%"
+          }
+        }
+      }
+    }
+  ]
+}
