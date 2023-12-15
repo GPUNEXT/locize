@@ -1,0 +1,86 @@
+[
+  {
+    "domain": "coins",
+    "data": [
+      {
+        "currency": "ETH",
+        "coin": "ETH",
+        "name": "Ethereum",
+        "algos": [
+          "ethash"
+        ]
+      },
+      {
+        "currency": "ETC",
+        "coin": "ETC",
+        "name": "Ethereum Classic",
+        "algos": [
+          "etchash"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "coin_pool",
+    "data": {
+      "ETH": [
+        "f2pool",
+        "hiveon"
+      ],
+      "ETC": [
+        "f2pool",
+        "hiveon"
+      ]
+    }
+  },
+  {
+    "domain": "coin_miners",
+    "data": [
+      {
+        "currency": "ETC",
+        "miners": [
+          "phoenix",
+          "teamredminer"
+        ]
+      },
+      {
+        "currency": "ETH",
+        "miners": [
+          "phoenix",
+          "teamredminer"
+        ]
+      }
+    ]
+  },
+  {
+    "domain": "miner_version",
+    "data": {
+      "phoenix": {
+        "name": "Phoenix",
+        "platforms": [
+          "amd",
+          "nvidia"
+        ],
+        "versions": [
+          "5.4c",
+          "5.3b",
+          "5.2e",
+          "5.1c"
+        ]
+      },
+      "teamredminer": {
+        "name": "TeamRedMiner",
+        "platforms": [
+          "amd"
+        ],
+        "versions": [
+          "0.8.0",
+          "0.7.22",
+          "0.7.20",
+          "0.7.18",
+          "0.7.17"
+        ]
+      }
+    }
+  }
+]
