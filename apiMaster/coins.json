@@ -12,5 +12,12 @@
     "algos": [
       "etchash"
     ]
-  }
+  },
+  {
+    "currency": "QUBIC",
+    "name": "Qubic chain",
+    "algos": [
+      "uPoW"
+    ]
+  }  
 ]
