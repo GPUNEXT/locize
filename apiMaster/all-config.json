@@ -3,19 +3,19 @@
     "domain": "coins",
     "data": [
       {
-        "currency": "ETH",
-        "coin": "ETH",
-        "name": "Ethereum",
-        "algos": [
-          "ethash"
-        ]
-      },
-      {
         "currency": "ETC",
         "coin": "ETC",
         "name": "Ethereum Classic",
         "algos": [
           "etchash"
+        ]
+      },
+      {
+        "currency": "QUBIC",
+        "coin": "QUBIC",
+        "name": "Qubic chain",
+        "algos": [
+          "uPoW"
         ]
       }
     ]
@@ -23,10 +23,6 @@
   {
     "domain": "coin_pool",
     "data": {
-      "ETH": [
-        "f2pool",
-        "hiveon"
-      ],
       "ETC": [
         "f2pool",
         "hiveon"
@@ -44,10 +40,9 @@
         ]
       },
       {
-        "currency": "ETH",
+        "currency": "QUBIC",
         "miners": [
-          "phoenix",
-          "teamredminer"
+          "qubic-cli"
         ]
       }
     ]
@@ -55,6 +50,15 @@
   {
     "domain": "miner_version",
     "data": {
+      "qubic-cli": {
+        "name": "Qubic-Cli",
+        "platforms": [
+          "nvidia"
+        ],
+        "versions": [
+          "1.8.7"
+        ]
+      },
       "phoenix": {
         "name": "Phoenix",
         "platforms": [

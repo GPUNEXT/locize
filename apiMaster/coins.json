@@ -1,13 +1,7 @@
 [
   {
-    "currency": "ETH",
-    "name": "Ethereum",
-    "algos": [
-      "ethash"
-    ]
-  },
-  {
     "currency": "ETC",
+    "coin": "ETC",
     "name": "Ethereum Classic",
     "algos": [
       "etchash"
@@ -15,9 +9,10 @@
   },
   {
     "currency": "QUBIC",
+    "coin": "QUBIC",
     "name": "Qubic chain",
     "algos": [
       "uPoW"
     ]
-  }  
+  }
 ]
