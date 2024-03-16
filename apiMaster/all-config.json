@@ -3,19 +3,19 @@
     "domain": "coins",
     "data": [
       {
-        "currency": "ETC",
-        "coin": "ETC",
-        "name": "Ethereum Classic",
-        "algos": [
-          "etchash"
-        ]
-      },
-      {
         "currency": "QUBIC",
         "coin": "QUBIC",
         "name": "Qubic chain",
         "algos": [
           "uPoW"
+        ]
+      },
+      {
+        "currency": "ETC",
+        "coin": "ETC",
+        "name": "Ethereum Classic",
+        "algos": [
+          "etchash"
         ]
       }
     ]
@@ -33,16 +33,16 @@
     "domain": "coin_miners",
     "data": [
       {
+        "currency": "QUBIC",
+        "miners": [
+          "qubic-cli"
+        ]
+      },
+      {
         "currency": "ETC",
         "miners": [
           "phoenix",
           "teamredminer"
-        ]
-      },
-      {
-        "currency": "QUBIC",
-        "miners": [
-          "qubic-cli"
         ]
       }
     ]
@@ -66,10 +66,7 @@
           "nvidia"
         ],
         "versions": [
-          "5.4c",
-          "5.3b",
-          "5.2e",
-          "5.1c"
+          "5.4c"
         ]
       },
       "teamredminer": {
@@ -78,11 +75,7 @@
           "amd"
         ],
         "versions": [
-          "0.8.0",
-          "0.7.22",
-          "0.7.20",
-          "0.7.18",
-          "0.7.17"
+          "0.8.0"
         ]
       }
     }
