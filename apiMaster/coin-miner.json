@@ -12,5 +12,11 @@
       "phoenix",
       "teamredminer"
     ]
+  },
+  {
+    "currency": "QUBIC",
+    "miners": [
+      "qubic-cli"
+    ]
   }
 ]
