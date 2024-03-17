@@ -26,8 +26,8 @@
       "0.7.17"
     ]
   },
-  "qubic-cli": {
-    "name": "Qubic-Cli",
+  "qubic-li": {
+    "name": "Qubic-li",
     "platforms": [
       "nvidia"
     ],
