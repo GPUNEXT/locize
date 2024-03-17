@@ -16,7 +16,7 @@
   {
     "currency": "QUBIC",
     "miners": [
-      "qubic-cli"
+      "qubic-li"
     ]
   }
 ]
