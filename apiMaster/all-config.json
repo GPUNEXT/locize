@@ -35,7 +35,7 @@
       {
         "currency": "QUBIC",
         "miners": [
-          "qubic-cli"
+          "qubic-li"
         ]
       },
       {
@@ -50,8 +50,8 @@
   {
     "domain": "miner_version",
     "data": {
-      "qubic-cli": {
-        "name": "Qubic-Cli",
+      "qubic-li": {
+        "name": "Qubic-li",
         "platforms": [
           "nvidia"
         ],
